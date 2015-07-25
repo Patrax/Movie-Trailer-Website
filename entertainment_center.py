@@ -1,3 +1,10 @@
+"""
+Entertainment Center is a module were Movie instances are created and added to
+a list; 'movies'. This list is then passed onto the 'fresh_tomatoes' module
+which outputs an html file to the local folder. This html is then opened in
+the default web browser of the system.
+"""
+
 import fresh_tomatoes
 import media
 
@@ -28,5 +35,7 @@ whiplash = media.Movie(
     "http://t3.gstatic.com/images?q=tbn:ANd9GcS_IwW5-_mWA1PXiPG4qEhLC6Q3vntQd7Bzgs_YE7HHFifItn2T", # noqa
     "https://www.youtube.com/watch?v=7d_jQycdQGo")
 
+#List of movie instances
 movies = [toy_story, school_of_rock, the_imitation_game, whiplash]
+#Rendering the html file by passing movies to the fresh_tomatoes module
 fresh_tomatoes.open_movies_page(movies)
