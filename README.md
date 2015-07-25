@@ -1,6 +1,6 @@
 # Movie Trailer Website Version 1.0 25/07/2015
 
-Tested with `Python Version: 2.7.6`
+Platform Independent
 
 ### For OSX:
 1) Open the Terminal and type:
@@ -9,8 +9,8 @@ This will generate the html file in the local folder and open it in your
 default web browser.
 
 ### Contact Information:
-Website: (http://patriciojeri.com)
-E-mail: pjeril@gmail.com
+- Website: (http://patriciojeri.com)
+- E-mail: pjeril@gmail.com
 
 The MIT License (MIT)
 
