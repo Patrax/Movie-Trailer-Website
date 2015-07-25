@@ -9,7 +9,7 @@ This will generate the html file in the local folder and open it in your
 default web browser.
 
 ### Contact Information:
-Website: [patriciojeri.com](http://patriciojeri.com)
+Website: (http://patriciojeri.com)
 E-mail: pjeril@gmail.com
 
 The MIT License (MIT)
